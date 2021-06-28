@@ -1,1 +1,1 @@
-# Write-your-own-code-in-SageMaker
+# Bring-your-own-TensorFlow-code-to-SageMaker
